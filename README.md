@@ -1,4 +1,4 @@
-# webaudio-player-singles
+# webaudio-player-visualisation-singles
 ```
 Some Examples for the WebAudio API:
 - Frequency spectrum analyzer
